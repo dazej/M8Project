@@ -1,6 +1,6 @@
 // CorsConfig.java
 // Global CORS configuration per Module 6 instructions
-
+// adding comment for github actions
 package edu.fscj.cen3024c.taskmanager.config;
 
 import org.springframework.context.annotation.Configuration;
